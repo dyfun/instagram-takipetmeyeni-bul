@@ -7,5 +7,5 @@ Instagram kullanıcılarının karşılıklı takipleşmediği hesapları göste
 2) Seni takip eden hesaplar kısmı için tümünü gör'e tıklanır ve tüm liste kopyalanır.
    $takipci = " "; bulunarak " " arasına yapıştırılır.
 3) Takip ettiğin hesaplar kısmı için tümünü gör'e tıklanır ve tüm liste kopyalanır.
-   $takip_edilen = " "; bulunarak " " arasına yapıştırılır.
+   $takip_edilen = " "; bulunarak " " arasına yapıştırılır.  
 4)Sunucu üzerine dosya atılır ve çalıştırılır. Çıktı sizi takip etmeyenleri gösterecektir.
