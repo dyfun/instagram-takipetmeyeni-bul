@@ -1,6 +1,6 @@
 <?php
 
-/* Takip Edilenler */
+/* Following */
 $takip_edilen = "
 dyfunn
 tayfungulerorg
@@ -9,7 +9,7 @@ zuck
 elonrmuskk
 ";
 
-/* Takipçiler  */
+/* Followers  */
 $takipci = "
 dyfunn
 elonrmuskk
