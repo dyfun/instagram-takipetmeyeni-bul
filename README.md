@@ -10,3 +10,6 @@ Instagram kullanıcılarının karşılıklı takipleşmediği hesapları göste
    $takip_edilen = " "; bulunarak " " arasına yapıştırılır.  
 
 Sunucu üzerine dosya atılır ve çalıştırılır. Çıktı sizi takip etmeyenleri gösterecektir.
+
+# Demo
+https://tayfunguler.org/instagram.php
