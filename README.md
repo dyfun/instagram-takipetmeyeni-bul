@@ -15,4 +15,4 @@ Sunucu üzerine dosya atılır ve çalıştırılır. Çıktı sizi takip etmeye
 https://tayfunguler.org/instagram.php
 
 # Not
-Geliştirilmesine devam edilecek olup Resmi API kullanılarak tamamen açık kaynak kodlu bir uygulama haline getirilecektir. Adım adım buradan takip edebilirsiniz.
+Geliştirilmesine devam edilecek olup Resmi API kullanılarak tamamen açık kaynak kodlu bir web ve mobil uygulama haline getirilecektir. Adım adım buradan takip edebilirsiniz.
