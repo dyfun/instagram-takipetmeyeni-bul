@@ -13,3 +13,6 @@ Sunucu üzerine dosya atılır ve çalıştırılır. Çıktı sizi takip etmeye
 
 # Demo
 https://tayfunguler.org/instagram.php
+
+# Not
+Geliştirilmesine devam edilecek olup Resmi API kullanılarak tamamen açık kaynak kodlu bir uygulama haline getirilecektir. Adım adım buradan takip edebilirsiniz.
